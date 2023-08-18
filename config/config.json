@@ -1,0 +1,38 @@
+{
+  "development": {
+    "username": "fl0user",
+    "password": "FgNIbY9WBdo0",
+    "database": "postgres",
+    "host": "ep-throbbing-rice-64043885.us-east-2.aws.neon.tech",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true
+      }
+    }
+  },
+  "test": {
+    "username": "fl0user",
+    "password": "FgNIbY9WBdo0",
+    "database": "postgres",
+    "host": "ep-throbbing-rice-64043885.us-east-2.aws.neon.tech",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true
+      }
+    }
+  },
+  "production": {
+    "username": "fl0user",
+    "password": "FgNIbY9WBdo0",
+    "database": "postgres",
+    "host": "ep-throbbing-rice-64043885.us-east-2.aws.neon.tech",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true
+      }
+    }
+  }
+}
